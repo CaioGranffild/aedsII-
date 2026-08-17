@@ -1,4 +1,4 @@
-package QUESTAO_1;
+
 import java.util.Scanner;
 public class questao1{
     public static String CifradeCesar(String frase){
@@ -13,7 +13,7 @@ public class questao1{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String frase = sc.nextLine();
-        while(!frase.equals("FIM")){
+        while(!(frase.length()==3 && frase.charAt(0)=='F' && frase.charAt(1)=='I' && frase.charAt(2)=='M')){
             String cifra = CifradeCesar(frase);
             System.out.println(cifra);
             frase=sc.nextLine();
