@@ -1,0 +1,1304 @@
+letra1: q, letra2: m
+aca
+letra1: v, letra2: d
+acaca
+letra1: l, letra2: f
+Ada
+letra1: l, letra2: s
+afa
+letra1: q, letra2: f
+aia
+letra1: i, letra2: i
+ala
+letra1: m, letra2: g
+aga
+letra1: e, letra2: u
+Ana
+letra1: z, letra2: t
+anilina
+letra1: j, letra2: y
+ara
+letra1: w, letra2: q
+arara
+letra1: g, letra2: f
+asa
+letra1: l, letra2: d
+ata
+letra1: h, letra2: z
+aviva
+letra1: r, letra2: v
+ele
+letra1: d, letra2: w
+esse
+letra1: o, letra2: d
+mamam
+letra1: d, letra2: r
+mamam
+letra1: q, letra2: u
+matam
+letra1: q, letra2: t
+metem
+letra1: b, letra2: u
+oco
+letra1: d, letra2: v
+omississimo
+letra1: e, letra2: h
+Omo
+letra1: w, letra2: p
+osso
+letra1: n, letra2: m
+Oto
+letra1: b, letra2: y
+Otto
+letra1: e, letra2: o
+ovo
+letra1: h, letra2: a
+racificar
+letra1: g, letra2: q
+radar
+letra1: t, letra2: t
+radar
+letra1: z, letra2: f
+reger
+letra1: s, letra2: g
+raiar
+letra1: h, letra2: x
+ralar
+letra1: w, letra2: r
+ramar
+letra1: z, letra2: m
+rapar
+letra1: l, letra2: w
+rasar
+letra1: j, letra2: t
+reler
+letra1: g, letra2: l
+reter
+letra1: q, letra2: c
+reter
+letra1: k, letra2: q
+rever
+letra1: e, letra2: f
+rfvivfr
+letra1: n, letra2: d
+rir
+letra1: n, letra2: k
+rodador
+letra1: w, letra2: w
+rotor
+letra1: g, letra2: n
+sacas
+letra1: i, letra2: a
+saaas
+letra1: q, letra2: w
+salas
+letra1: q, letra2: i
+sanas
+letra1: a, letra2: v
+svpvs
+letra1: t, letra2: s
+saras
+letra1: q, letra2: a
+sararas
+letra1: e, letra2: i
+siris
+letra1: u, letra2: b
+socos
+letra1: h, letra2: x
+somavamos
+letra1: q, letra2: f
+somamos
+letra1: j, letra2: j
+sopapos
+letra1: h, letra2: d
+Ada
+letra1: m, letra2: g
+Ana
+letra1: f, letra2: k
+Anna
+letra1: l, letra2: z
+Bob
+letra1: y, letra2: c
+Ebbe
+letra1: l, letra2: w
+Ebbe
+letra1: e, letra2: y
+Elly
+letra1: y, letra2: w
+Eve
+letra1: w, letra2: q
+Hannah
+letra1: w, letra2: a
+Menem
+letra1: n, letra2: n
+Natan
+letra1: m, letra2: y
+Nauan
+letra1: o, letra2: r
+Neven
+letra1: i, letra2: t
+Oto
+letra1: e, letra2: h
+Otto
+letra1: m, letra2: z
+Raiar
+letra1: r, letra2: t
+Rennet
+letra1: t, letra2: s
+Mussum
+letra1: s, letra2: j
+Bauab
+letra1: n, letra2: j
+Rever
+letra1: b, letra2: t
+Lael Leal
+letra1: j, letra2: a
+Neuquen
+letra1: b, letra2: x
+Neuquen
+letra1: o, letra2: h
+Mutum
+letra1: j, letra2: h
+Acaiaca
+letra1: i, letra2: y
+Mucum
+letra1: m, letra2: z
+Miriz
+letra1: q, letra2: g
+Itati
+letra1: j, letra2: t
+Ailen - Nelia
+letra1: e, letra2: w
+abas - saba
+letra1: i, letra2: x
+acara - araca
+letra1: z, letra2: r
+acem - Meca
+letra1: i, letra2: n
+aco - oca
+letra1: w, letra2: t
+Adnan - Nanda
+letra1: s, letra2: p
+agil - liga
+letra1: u, letra2: i
+alas - sala
+letra1: b, letra2: l
+alem - mela
+letra1: h, letra2: s
+Alani - inala
+letra1: v, letra2: a
+alo - ola
+letra1: h, letra2: w
+amam - mama
+letra1: m, letra2: j
+ajor - Roja
+letra1: a, letra2: l
+lmor - roml
+letra1: l, letra2: e
+amora - aroma
+letra1: f, letra2: e
+ame - ema
+letra1: z, letra2: x
+anal - Lana
+letra1: l, letra2: v
+anev - Lena
+letra1: a, letra2: d
+dnelem - melend
+letra1: f, letra2: x
+anil - Lina
+letra1: z, letra2: l
+animal - lamina
+letra1: d, letra2: i
+anis - sina
+letra1: b, letra2: i
+apos - sopa
+letra1: n, letra2: k
+ar - ra
+letra1: g, letra2: e
+ar - ra
+letra1: m, letra2: d
+arad - Mara
+letra1: l, letra2: h
+arar - rara
+letra1: y, letra2: e
+arco - ocra
+letra1: l, letra2: h
+are - era
+letra1: n, letra2: x
+aro - ora
+letra1: h, letra2: d
+arroz - zorra
+letra1: w, letra2: z
+assam - massa
+letra1: s, letra2: n
+annim - minna
+letra1: k, letra2: g
+atar - rata
+letra1: f, letra2: t
+atem - meta
+letra1: i, letra2: r
+aterram - marreta
+letra1: s, letra2: u
+ator - rota
+letra1: v, letra2: q
+auge - egua
+letra1: c, letra2: f
+aval - lava
+letra1: k, letra2: l
+avaro - orava
+letra1: h, letra2: z
+ave - Eva
+letra1: d, letra2: m
+avo - ova
+letra1: x, letra2: c
+avo - ova
+letra1: i, letra2: l
+avo - ova
+letra1: k, letra2: k
+Avon - nova
+letra1: u, letra2: w
+elo - ole
+letra1: t, letra2: e
+iris - siri
+letra1: b, letra2: i
+laicos- social
+letra1: c, letra2: x
+latem - metal
+letra1: s, letra2: k
+lavo - oval
+letra1: i, letra2: z
+Leonam - Manoel
+letra1: z, letra2: i
+Marrocos - socorram
+letra1: t, letra2: y
+melar - ralem
+letra1: q, letra2: z
+melar - ralem
+letra1: r, letra2: k
+metek - ketem
+letra1: s, letra2: c
+ocac - caco
+letra1: x, letra2: o
+olor - rolo
+letra1: p, letra2: d
+orar - raro
+letra1: i, letra2: v
+ramo - omar
+letra1: q, letra2: f
+ramos - somar
+letra1: l, letra2: t
+redit - tider
+letra1: o, letra2: p
+servil - livres
+letra1: l, letra2: z
+aceno boneca
+letra1: h, letra2: j
+acne penca
+letra1: c, letra2: z
+Anita latina
+letra1: g, letra2: u
+aperto trepa
+letra1: f, letra2: k
+laca bacal
+letra1: c, letra2: c
+ladra pardal
+letra1: g, letra2: x
+lama ramal
+letra1: n, letra2: k
+lamika akimal
+letra1: f, letra2: j
+lata Natal
+letra1: y, letra2: i
+saca macas
+letra1: e, letra2: l
+rldl cldlr
+letra1: k, letra2: h
+rezar prazer
+letra1: o, letra2: x
+A caca
+letra1: i, letra2: g
+A caca
+letra1: c, letra2: v
+A vama-mava
+letra1: o, letra2: d
+A dama
+letra1: c, letra2: q
+A droga gorda
+letra1: c, letra2: f
+A baba
+letra1: u, letra2: v
+A baba
+letra1: r, letra2: g
+A Leda dela
+letra1: b, letra2: g
+A Lila
+letra1: u, letra2: p
+A mama
+letra1: d, letra2: x
+A mama
+letra1: b, letra2: o
+A mil... Baita...Katia B. Lima
+letra1: j, letra2: l
+A Rua Laura
+letra1: f, letra2: s
+Ada bebada
+letra1: h, letra2: x
+Ada levada velada
+letra1: b, letra2: j
+Ada nada
+letra1: g, letra2: l
+Ai, Bia!
+letra1: n, letra2: a
+Ali, lado Dalila
+letra1: r, letra2: k
+Anita, a tina! (Antonio de Castko)
+letra1: p, letra2: t
+Arara rara
+letra1: q, letra2: s
+E bebe!
+letra1: x, letra2: p
+Lima a mil
+letra1: u, letra2: w
+Lwz azwl
+letra1: a, letra2: a
+Luz a arara azul
+letra1: o, letra2: b
+O bbbb
+letra1: a, letra2: r
+O bolo do lobo
+letra1: e, letra2: t
+O dado
+letra1: p, letra2: t
+O dedo
+letra1: r, letra2: e
+Oh! Limonada no milho? (Maecelo Coimbea Fuetado)
+letra1: i, letra2: w
+O Lwlo
+letra1: i, letra2: y
+O Lu nulo
+letra1: j, letra2: d
+O selo leso
+letra1: i, letra2: p
+A Spla lpsa
+letra1: l, letra2: d
+O Sido diso
+letra1: e, letra2: q
+O trotq torto
+letra1: t, letra2: y
+O vovo
+letra1: z, letra2: o
+Oi, raro horario!
+letra1: k, letra2: n
+Oi rato otario!
+letra1: n, letra2: h
+Oi, gol e relogio? (Sah Tiago Caraiva)
+letra1: u, letra2: k
+Ovos nele, Helen Sovo!
+letra1: s, letra2: u
+Ralo do dolar
+letra1: v, letra2: p
+Ze de Lima, Rua Laura, Mil e Dez
+letra1: b, letra2: e
+Aco Pipoca
+letra1: s, letra2: b
+Anita latina
+letra1: b, letra2: s
+Susi no onisus
+letra1: f, letra2: c
+A base desatola calotas e desaba
+letra1: v, letra2: h
+A base do teto desaba (Romulo Marinho)
+letra1: d, letra2: r
+A Capital. Lati paca (Eruarro Banks)
+letra1: u, letra2: x
+A cara rajada da jararaca (Sheldon Cooper)
+letra1: z, letra2: f
+A dama admirou o rim da amada
+letra1: x, letra2: h
+A Daniela ama a lei? Nada! (Marcelo Coimbra Furtado)
+letra1: r, letra2: k
+Adias a data da saida. (Makcelo Coimbka Fuktado)
+letra1: t, letra2: i
+A diva avida, dadiva a vida (Rogerio Duarie Filho)
+letra1: s, letra2: u
+A diva em Argel alegra-me a vida (Romulo Marinho)
+letra1: l, letra2: x
+A droga do dote e todo da gorda (Romuxo Marinho)
+letra1: p, letra2: r
+A grama e amarga (Millor Fernandes)
+letra1: b, letra2: w
+Ai, Ravel. Arados, serrotes e torres so Dara levaria. Ela foi-se (Marcelo Coimwra Furtado)
+letra1: y, letra2: z
+A leda, sacana, ia na casa dela. (Marcelo Coimbra Furtado)
+letra1: d, letra2: q
+A lupa pula (Catarina Lins)
+letra1: v, letra2: f
+A ma (boa?) nofa le Bono: Nobel Afon a Obama (Leo Cunha)
+letra1: j, letra2: q
+A maca dos sonos so da cama (Mateus S. Thimoteo)
+letra1: r, letra2: v
+A mala nada na lama (Millov Fevnandes)
+letra1: w, letra2: o
+A mira da rima (Mateus S. Thimoteo)
+letra1: y, letra2: x
+A miss e pessima!
+letra1: d, letra2: v
+A Rita, satira! (Mateus S. Thimoteo)
+letra1: v, letra2: u
+A, seu Gu, tropa da portuguesa? (Mateus S. Thimoteo)
+letra1: h, letra2: k
+Amarga-me a droga, a gorda e magra ma (Rogerio Duarte Filko)
+letra1: g, letra2: t
+Amo Oman. Se Roma me tem amores, amo Oman! (Mateus S. Thimoteo)
+letra1: c, letra2: c
+Arroz e zorra (Fernando Fonseca)
+letra1: m, letra2: z
+Acata o danado... e o danado ataca!
+letra1: w, letra2: w
+Acinte animal: aos sopapos, soa lamina etnica. (Beto Furquim)
+letra1: c, letra2: l
+Aluda ladela da Leda ladula (Romulo Marinho)
+letra1: p, letra2: n
+Ate Reagan sibarita tira bisnaga ereta (Chico Buarque de Hollanda)
+letra1: z, letra2: s
+Ate Reagan sibarita tira bisnaga ereta (Chico Buarque de Hollanda)
+letra1: w, letra2: r
+A Daniela ama a lei? Nada! (Marcelo Coimbra Furtado)
+letra1: f, letra2: u
+Adias a data da saida (Marcelo Coimbra Furtado)
+letra1: j, letra2: t
+Adias aerea saida. (Beto Furquim)
+letra1: l, letra2: o
+Ah, 'oeva eu', que a veoha... (Mateus S. Thimoteo)
+letra1: p, letra2: d
+Ah, livre era dadai noel, leon ia dadar e ervilha. (Rogerio Duarte Filho)
+letra1: x, letra2: b
+Ai, Ravel, arados, serrotes e torres, so Dara levaria (Marcelo Coimbra Furtado)
+letra1: o, letra2: q
+Ajudem Edu ja! (Andrey Galvaq)
+letra1: a, letra2: k
+Amkrgk e k mkck - tirk-k, Ritk! ckmk e k grkmk... (Mkrcos Chrispim)
+letra1: c, letra2: m
+Ame a ema
+letra1: f, letra2: o
+Ame o poema
+letra1: e, letra2: c
+Amil, mcra gula, c dia, idc alugar cm Lima (Andrcy Galvao)
+letra1: j, letra2: o
+Amor, aniversario: so iras revi na Roma (Eduardo Banks)
+letra1: g, letra2: h
+Amor me acoda, aviva, adoca em Roma. (Beto Furquim)
+letra1: r, letra2: q
+Amoqa me tem aqoma
+letra1: y, letra2: f
+Ana, case, esse e sacana
+letra1: p, letra2: h
+Ana lava Lana
+letra1: b, letra2: x
+Ana me rola, calor emana...
+letra1: g, letra2: w
+Ana (e Dari) ira reler Ari; ira de Ana. (Filipe Prates)
+letra1: a, letra2: d
+And Penelope drder d Lud dcitore e eroticd duld redrd e polen e pdnd. (Edudrdo Bdnks)
+letra1: q, letra2: p
+Ande logo, ela vale o gol, Edna! (Marcelo Coimbra Furtado)
+letra1: u, letra2: l
+Anotaram a data da maratona (Francois S. Oliveira)
+letra1: n, letra2: x
+A pateta ama ate tapa...
+letra1: v, letra2: v
+A porta rangia a ignara tropa
+letra1: r, letra2: i
+Apos a sopa
+letra1: v, letra2: i
+A rara arara
+letra1: r, letra2: y
+Ay geya yegya (Mateus S. Thimoteo)
+letra1: e, letra2: z
+Araras. A cuca roda. Ata z bom szmzar. Asszm-a szm ovo, mzs a mzs, sara. E mzsmo bzata, a dor, a cuca sarara. (Almi Cardoso da Silva)
+letra1: i, letra2: w
+Arfas a arar solos; rara, a safra. (Beto Furquwm)
+letra1: m, letra2: c
+A Rita, sobre vovo, verbos atira (Roculo Marinho)
+letra1: k, letra2: t
+A roda da Dora
+letra1: v, letra2: k
+Aro, fala oba idem*. Edu, tike o dna dum eco desse. Ai moco, toma. Zedi, pare de ler e kai, ide e lekai. Daniel ei kai roda tu p*. Moco, o computador ia, ki ele inadiakel, e Edi ia ker ele de rapidez a moto. Comi a esse doce mudando e ki tu de media boa la fora.(Andrey Galkao)
+letra1: i, letra2: v
+Aroma. Me supus em amora. (Beto Furquvm)
+letra1: n, letra2: n
+A sacada da casa
+letra1: p, letra2: u
+A semana toda lemos: so melado ta na mesa (Marcelo Coimbra Furtado)
+letra1: p, letra2: c
+Acos a negra falaras: Sara Lafarge na soca! (Euclides Jose Maciel Marques)
+letra1: v, letra2: v
+Arame na cidade? Mele-o! Ele faz a fe, Leo! Ele me da dica, ne, Mara? (Mateus S. Thimoteo)
+letra1: u, letra2: s
+Arara, vi paca e a capivara. Ra! (Matess S. Thimoteo)
+letra1: g, letra2: r
+Asa, caneta, arroz, radar, zorra: ate na casa? (Mateus S. Thimoteo)
+letra1: p, letra2: p
+Assim a aia ia a missa (Millor Fernandes)
+letra1: x, letra2: r
+Assim a aluna anula a missa
+letra1: p, letra2: t
+Ate na cana, to na Lua. Paul, anota na caneta (Andrey Galvao)
+letra1: f, letra2: q
+Ate Reagan sibarita tira bisnaga ereta (Chico Buarque)
+letra1: i, letra2: z
+A sogra ma e amargosa
+letra1: b, letra2: r
+Atino?ranana ronita.
+letra1: q, letra2: t
+Atlas, omississimo, salta. (Beto Furtuim)
+letra1: i, letra2: n
+Ato ndnota
+letra1: g, letra2: y
+A torre da derrota
+letra1: b, letra2: c
+Aula na Lua (Mateus S. Thimoteo)
+letra1: y, letra2: p
+Aula sobre verbos a Lua (Mateus S. Thimoteo)
+letra1: b, letra2: d
+A Varig girava (Diogo Vasconcellos Lima)
+letra1: s, letra2: e
+A Varig girava (Diogo Vaeconcelloe Lima)
+letra1: p, letra2: r
+Ave veloz o leve. Va!
+letra1: x, letra2: u
+E a mateira Marieta mae?
+letra1: x, letra2: n
+E cova! Puna, amo tossir e ame! De o dna Ro! Mano, a Thaisi? Ah, tao namorando! E de mae (risso). Toma, anu pa voce! (Andrey Galvao Barbosa)
+letra1: w, letra2: t
+E Amaro? Faz a paz afora, mae. (Bruno Prates)
+letra1: f, letra2: u
+E assim a missa e
+letra1: m, letra2: y
+E ate o Papa poeta e" (Royulo Marinho)
+letra1: m, letra2: e
+E, fala! A, reza! Fala! O, jura: eao de 11 e do(a) earujo(a) La, fazer a Ala fe! (Mateus S. Thieoteo)
+letra1: z, letra2: g
+E Leda, sacana, ia na casa dele (Marcelo Coimbra Furtado)
+letra1: t, letra2: i
+Ema, so apos merecerem sopa os ame. (Beio Furquim)
+letra1: i, letra2: j
+Ele padece da pele
+letra1: w, letra2: k
+E telas eram usadas a caneta ate na casa da Sumare, Salete!
+letra1: y, letra2: x
+E toma, leva, roda a missa. Reza fara prazer... e lave-me, otimo e o demo, evite o azar, evite-se esse mes. Acorde pedroca sem esse (e se tive razao, e tive) o medo e o mito e me vale rezar para fazer assim. A Adoravel, amo-te. (Rogerio Duarte Filho)
+letra1: k, letra2: i
+E troca a corte! (Mateus S. Thimoteo)
+letra1: i, letra2: t
+E va apos a sopa, ave! (Mateus S. Thtmoteo)
+letra1: z, letra2: i
+E volitar ter a ave... Lico domina e le. Atica, Ana Morale, a ti, Paolo, todavia, rele. Assinada, ela fala: '- Sai, cala, foge, retrata, va, o Satim! (repetem o nosso nome). Te permitas o avatar ter ego. Falacias, Ala, fale a Danissa!' Ele, raiva do tolo, apita... Ela, romana, a cita. Ele, animo docil... Eva, a retratil, o ve! (Herbert Saavedra)
+letra1: y, letra2: v
+Em roda, tropa, apos a sopa, a porta dorme (Romulo Marinho)
+letra1: b, letra2: a
+Esio, fale! Ai, Ravel, arados, serrotes e torres so Dara levaria. Ela foi-se (Marcelo Coimara Furtado)
+letra1: g, letra2: r
+Es sapo? Passe
+letra1: k, letra2: j
+Eta, longe Egno late (Mateus S. Thimoteo)
+letra1: c, letra2: u
+Eu, neto; vovo, tenue (Leo Cunha)
+letra1: b, letra2: j
+Eva, asse essa ave
+letra1: y, letra2: a
+Eva, asse e pape essa ave
+letra1: k, letra2: s
+Ia, vem e vai (Mateus S. Thimoteo)
+letra1: g, letra2: b
+Ias em missa? Lobo o bol assim me sai... (Marcos Chrispim)
+letra1: f, letra2: i
+Iris ama siri (Italo Lourenco)
+letra1: h, letra2: o
+Italo, lati (Mateus S. Toimoteo)
+letra1: q, letra2: a
+Fica facil escrever palindromos com nomes proprios, como fazem Mezaf Omocso, Irporp Semon, Mocs Omord, Nila Prevercs e Lica Facif. (Rodrigo Marcal e Marco Vieira)
+letra1: m, letra2: f
+Girava Varig (Mateus S. Thifoteo)
+letra1: e, letra2: n
+Ha gaz no Gonzaga. (Antonio dn Castro Rocha Jr)
+letra1: e, letra2: w
+Ha gaz no Gonzaga. (Antonio dw Castro Rocha Jr)
+letra1: a, letra2: b
+Hb gbz no Gonzbgb. (Antonio de Cbstro Rochb Jr)
+letra1: n, letra2: z
+Laco bacaza para pazaca bocal (Romulo Marizho)
+letra1: y, letra2: e
+Lael e leal! (Ricardo Biesek)
+letra1: k, letra2: g
+La ta no novo; e sem o califa na fila come-se ovo no Natal. (Antonio Prates)
+letra1: o, letra2: o
+La tem metal.
+letra1: d, letra2: b
+Lavo ovo oval (Mateus S. Thimoteo)
+letra1: m, letra2: m
+Lena me teve (tem) anel (Mateus S. Thimoteo)
+letra1: i, letra2: w
+Lwga: se sobes sebos, es agwl. (Beto Furquwm)
+letra1: k, letra2: q
+Livre do poder vil (Rogerio Duarte Filho)
+letra1: r, letra2: x
+Luza Rocelina, a namoxada do Manuel, leu na "Moda da Romana": "Anil e cox azul"
+letra1: a, letra2: j
+Mjrij, Selenj e Anele sjirjm (Euclides Jose Mjciel Mjrques)
+letra1: p, letra2: i
+Marujos so juram
+letra1: m, letra2: u
+Mata da TAM (Mateus S. Thiuoteo)
+letra1: m, letra2: e
+Modo: soe tiraeos, soeaeos soe a riteos: o doe (Roeulo Marinho)
+letra1: a, letra2: b
+Morrbm bpos b sopb mbrrom
+letra1: j, letra2: l
+Navio MOCS? Ueh, ta Matheus com o Ivan? (Ivan Souza de Andrade, p/ o filho, Matheus B.W.A)
+letra1: t, letra2: u
+O caso da droga da gorda do saco
+letra1: h, letra2: g
+O ceu sueco
+letra1: d, letra2: r
+O Cir e merico
+letra1: h, letra2: a
+O Decamerao: are, Macedo (Eduardo Banks)
+letra1: l, letra2: h
+O Demo e tema, sua causa mete o medo. (San Tiago Caraiva)
+letra1: z, letra2: f
+Odio do doido!
+letra1: z, letra2: i
+O Gal. Leno Roca, a porta da cidade, a portador relata fatal erro da tropa e da dica da tropa a Coronel Lago (Romulo Marinho)
+letra1: r, letra2: x
+O galo ama o lago
+letra1: q, letra2: m
+O galo no lago
+letra1: i, letra2: m
+O, mas adoro rodas: amo! (Mateus S. Thmmoteo)
+letra1: r, letra2: i
+Oh! Limonada no milho? (Maicelo Coimbia Fuitado)
+letra1: u, letra2: l
+Oh nossas llvas avllsas, sonho... (Rogerio Dlarte Filho)
+letra1: d, letra2: i
+Oh, no ie Mara meionho!(Gletson Aguiar Martins)
+letra1: o, letra2: i
+Oi, ni! Medi di deminii? (Mateus S. Thimitei)
+letra1: s, letra2: w
+Oi, no! Medo do demonio? (Mateuw S. Thimoteo)
+letra1: r, letra2: u
+Oi! Leva auaua? - Ave Lio!
+letra1: r, letra2: r
+O Ivan ama navio (Ivan Nicoli)
+letra1: o, letra2: k
+Ola tik Italk (Italk Lkurenck)
+letra1: e, letra2: k
+O lobo ama o bolo
+letra1: h, letra2: n
+O mero remo (Italo Lourenco)
+letra1: r, letra2: b
+O mito e otimo
+letra1: k, letra2: x
+O po de cocaina mata maniaco cedo, po!
+letra1: b, letra2: y
+O po de cocaina mata maniaco cedo, po!
+letra1: l, letra2: t
+Orar e em missa? Assim me e raro! (Mateus S. Thimoteo)
+letra1: m, letra2: s
+O rosano acata asores a dasas asadas e Rosa ataca o nasoro
+letra1: t, letra2: q
+O romano do namoro (Maqeus S. Thimoqeo)
+letra1: d, letra2: z
+Oslo: o cla e ze alcool so (Leo Cunha)
+letra1: m, letra2: i
+O tal e o rio leve na neve loiro e lato (Roberto F. Silvestre)
+letra1: v, letra2: a
+O tapa. Oh! Li-me, Datena. Coma arroz. O, nao e o ano. Zorra: amo: caneta; de milho a pato (Mateus S. Thimoteo)
+letra1: b, letra2: z
+O teu drama e amar dueto
+letra1: n, letra2: n
+O terrivel e ele vir reto (Romulo Marinho)
+letra1: b, letra2: h
+Oto come doce seco de mocoto (Romulo Marinho)
+letra1: e, letra2: k
+Oto comk mocoto
+letra1: y, letra2: r
+O treco certo
+letra1: o, letra2: w
+O vww dw wvw
+letra1: u, letra2: x
+Ramo do mar (Matexs S. Thimoteo)
+letra1: k, letra2: w
+Reverta e verbo, O vivo breve e, Sabe bem ama-lo o Lama, Me beba se e verbo vivo, O breve atrever. (Rogerio Duarte Filho)
+letra1: a, letra2: z
+Rezzr pro Pedro (morde por przzer). (Bruno Prztes)
+letra1: w, letra2: z
+Rir, o breve verbo rir
+letra1: l, letra2: i
+Roda esse corpo, processe a dor!
+letra1: d, letra2: f
+Roma e amor
+letra1: o, letra2: h
+Rhma? Eu? Que amhr... (Mateus S. Thimhteh) - primeira frase palindrhma chm a letra Q
+letra1: n, letra2: h
+Roma me tem amor
+letra1: x, letra2: w
+Sa da tapas e sapatadas
+letra1: d, letra2: u
+Sa, grave Vargas
+letra1: a, letra2: k
+Skirkm o tio e oito mkriks
+letra1: j, letra2: p
+Sais sem o casaco, Messias?
+letra1: p, letra2: r
+Salta o Atlas
+letra1: h, letra2: v
+Saltaram o mar, Atlas
+letra1: g, letra2: d
+Seco de raiva, coloco no colo caviar e doces
+letra1: r, letra2: e
+Sem o dote, e todo mes
+letra1: g, letra2: s
+Ser belo, lebres!
+letra1: t, letra2: r
+_Seres saro ha horas! _Seres?!
+letra1: r, letra2: f
+Se fota, so, ave leva os atofes!
+letra1: s, letra2: f
+Soam-me otimof of reverfof: o mito em maof!
+letra1: b, letra2: v
+So com o tio somavamos oito mocos
+letra1: w, letra2: y
+So Dnira mata tamarindos...
+letra1: g, letra2: i
+Socorram Marrocos
+letra1: s, letra2: t
+Socorram-me em Marrocot!
+letra1: m, letra2: t
+Socorrat-te, subi no onibus et Marrocos!
+letra1: w, letra2: z
+Solucou em meu oculos
+letra1: l, letra2: m
+So memado ta na mesa a semana toda, Lemos!
+letra1: j, letra2: b
+Sorri. P.S.: espirros!
+letra1: n, letra2: g
+SOS, A Varig girava, SOS
+letra1: s, letra2: v
+Subi no onibuv
+letra1: k, letra2: b
+Subi no onibus
+letra1: x, letra2: w
+Subi no onibus
+letra1: o, letra2: p
+Subi np pnibus
+letra1: q, letra2: i
+Subi no onibus
+letra1: d, letra2: y
+Tucano na CUT
+letra1: l, letra2: s
+Ze de Lima, Rua Laura, mis e dez
+letra1: l, letra2: w
+Ze do dez
+letra1: t, letra2: c
+Livro da dor vil.
+letra1: n, letra2: y
+O Nortoy yo troyo.
+letra1: z, letra2: o
+O pavao ve arara, so vi urubu ruivo sarara e voava po!
+letra1: k, letra2: p
+Ria, so tive sorte ma, a metros evito sair.
+letra1: v, letra2: x
+Acinte animal: aos sopapos, soa lamina etnica. (Beto Furquim)
+letra1: b, letra2: f
+Adias aerea saida. (Beto Furquim)
+letra1: z, letra2: j
+Ame a ema.
+letra1: v, letra2: a
+Amar Donato idiota no drama. (Laura Oliaeira)
+letra1: e, letra2: r
+Amor mr acoda, r aviva, r adoca rm Roma. (Brto Furquim)
+letra1: z, letra2: k
+Amor, me ama em Roma?
+letra1: m, letra2: h
+Ande, Edna.
+letra1: l, letra2: p
+Ante Atpas, Oto sapta Etna
+letra1: z, letra2: n
+Apos a sopa.
+letra1: x, letra2: o
+Arre! Sem o erre, o mes erra. (Beto Furquim)
+letra1: p, letra2: k
+Arfas a arar solos; rara, a safra. (Beto Furquim)
+letra1: v, letra2: p
+Assam a massa.
+letra1: i, letra2: h
+Asshm a aluna anula a mhssa.
+letra1: z, letra2: m
+Atlas, omississimo, salta (Beto Furquim)
+letra1: u, letra2: i
+E assim a missa e.
+letra1: t, letra2: q
+Ai,e legal a geleia
+letra1: v, letra2: j
+Ema, so apos merecerem sopa os ame. (Beto Furquim)
+letra1: o, letra2: v
+Eu, ue!
+letra1: a, letra2: y
+Eu ycuo Lyury ny ciriricy ny ruy loucy, ue (Lyury Oliveiry)
+letra1: p, letra2: l
+Eva, asse essa ave.
+letra1: t, letra2: y
+Liga: se sobes sebos, es agil. (Beyo Furquim)
+letra1: c, letra2: c
+Matem e metam. (Euclides Jose Maciel Marques)
+letra1: k, letra2: f
+Maus matutam, suam. (Beto Furquim)
+letra1: v, letra2: c
+Morram apos a sopa marrom.
+letra1: s, letra2: a
+Omitiram radar maritimo.
+letra1: l, letra2: x
+Omitiram radar maritimo.
+letra1: v, letra2: j
+Omitiram radar maritimo.
+letra1: h, letra2: v
+Omito osso otimo.
+letra1: i, letra2: e
+Orar e em messa? Assem me e raro! (Mateus S. Themoteo)
+letra1: y, letra2: b
+Oras e saro. (Guilherme Pedroso)
+letra1: g, letra2: d
+Os Maias saiam so. (Tulio)
+letra1: o, letra2: d
+Raul e Iris: apds sdpapds, sdpa, siri e luar. (Betd Furquim)
+letra1: b, letra2: e
+Roma e amor.
+letra1: w, letra2: x
+Salta o Atlas.
+letra1: n, letra2: w
+Somar me em Ramos. (Celia L. Ribeiro)
+letra1: n, letra2: y
+Roma me tem amor.
+letra1: k, letra2: s
+Aula na rua e aura na lua (Laura Oliveira)
+letra1: n, letra2: z
+A diva da divida da vida. (Laura Oliveira)
+letra1: w, letra2: d
+Socorram Marrocos.
+letra1: p, letra2: q
+Somos seres, somos?!?! Seres somos !?!? (Paulo Cezar Antunes Junior)
+letra1: q, letra2: u
+SOS: somos sos
+letra1: d, letra2: y
+Zey lota o atol yez (Hemeterio)
+letra1: n, letra2: x
+Sopas suam, e Solar/Somar soa aximal maritimo; livres ares axula acixte, a reviver, a etxica aluxa sera servil? Omitiram lamixa aos ramos ralos e maus sapos (Giuliaxo Fratix)
+letra1: v, letra2: g
+Sos,nossos palermas sapos so passam relapsos,sonsos!
+letra1: v, letra2: f
+Oto come doce seco de mocoto
+letra1: g, letra2: f
+Subi no onibus
+letra1: g, letra2: c
+A base do teto desaba. (Romulo Marinho)
+letra1: n, letra2: q
+A diva avida, dadiva a vida (Rogerio Duarte Filho)
+letra1: y, letra2: d
+Ah, livre era papai noel, leon ia papar e ervilha. (Rogerio Duarte Filho)
+letra1: z, letra2: v
+A cara rajada da jararaca. (Manu Lafer)
+letra1: z, letra2: t
+Acata o danado... e o danado ataca!
+letra1: p, letra2: g
+Acuda cadela da Leda caduca (Romulo Marinho)
+letra1: m, letra2: x
+A daxa adxirou o rix da axada.
+letra1: y, letra2: s
+A Daniela ama a lei? Nada! (Marcelo Coimbra Furtado)
+letra1: h, letra2: c
+Adias a data da saida. (Marcelo Coimbra Furtado)
+letra1: f, letra2: d
+Adaao, Tejo hereje, gere hoje toada. (pintado num muro da UFRJ)
+letra1: x, letra2: b
+Omitiram o nobre verbo no maritimo (San Tiago Caraiva)
+letra1: d, letra2: x
+A xroga xo xote e toxo xa gorxa. (Romulo Marinho)
+letra1: u, letra2: o
+A diva em Argel alegra-me a vida. (Romolo Marinho)
+letra1: i, letra2: p
+A grama e amarga. (Mpllor Fernandes)
+letra1: g, letra2: p
+Ah, Caetano, e Leona te acha? (Ederson Dantas)
+letra1: z, letra2: a
+Ai, Ed... O Oto odeia! (Ederson Dantas)
+letra1: d, letra2: m
+Ai, Ravel, aramos, serrotes e torres, so Dara levaria. Ela foi-se" (Marcelo Coimbra Furtamo)
+letra1: e, letra2: r
+A ira cava na vacaria.(Glrtson Aguiar Martins)
+letra1: w, letra2: g
+Amada dama (Jederson L. Ribeiro)
+letra1: b, letra2: t
+A mala nada na lama. (Millor Fernandes)
+letra1: x, letra2: b
+A lua panamenha agita, fatiga. Ah! Nem Ana Paula...(Noguerol)
+letra1: o, letra2: b
+Amada rapariga agira para dama.
+letra1: t, letra2: k
+Amarelo cadaver ka; e a kreva da colera ma. (Manu Lafer)
+letra1: t, letra2: x
+Amarga e a maca - xira-a, Rixa! Cama e a grama... (Marcos Chrispim)
+letra1: w, letra2: c
+Amarga-me a droga, a gorda e magra ma. (Rogerio Duarte Filho)
+letra1: r, letra2: w
+Ame o poema.
+letra1: r, letra2: l
+A miss e pessima!
+letra1: f, letra2: u
+Amora me tem aroma.
+letra1: p, letra2: k
+Amor e de Roma. (Iuan Melo Meirelles)
+letra1: o, letra2: u
+Ana, case, esse e sacana.
+letra1: g, letra2: r
+Ana (e Dari) ira reler Ari; ira de Ana. (Filipe Prates)
+letra1: l, letra2: k
+Ana kava Lana.
+letra1: k, letra2: k
+Anali amada dama ilana. (Ada Jessica da Silva)
+letra1: r, letra2: b
+Ana me bola, calob emana...
+letra1: u, letra2: j
+Ande logo, ela vale o gol, Edna! (Marcelo Coimbra Fjrtado)
+letra1: w, letra2: i
+Anotaram a data da maratona.
+letra1: p, letra2: j
+A jateta ama ate taja...
+letra1: e, letra2: z
+A porta rangia a ignara tropa.
+letra1: w, letra2: s
+A rara arara.
+letra1: k, letra2: e
+Araras. A cuca roda. Ata e bom semear. Assem-a sem ovo, mes a mes, sara. E mesmo beata, a dor, a cuca sarara. (Almi Cardoso da Silva)
+letra1: j, letra2: a
+A Rita, sobre vovo, verbos atira. (Romulo Marinho)
+letra1: l, letra2: h
+Arroz e a mata, mae zorra! (Herbert Saavedra)
+letra1: a, letra2: v
+A svcvdv dv cvsv.
+letra1: a, letra2: q
+A semqnq todq lemos: so melqdo tq nq mesq. (Mqrcelo Coimbrq Furtqdo)
+letra1: b, letra2: l
+Apos a negra falaras: Sara Lafarge na Sopa! (Euclides Jose Maciel Marques)
+letra1: a, letra2: r
+Assim, r sopr so mereceremos rpos r missr.
+letra1: o, letra2: h
+Assim a aia ia a missa. (Millhr Fernandes)
+letra1: s, letra2: t
+Attim a diva Ana Rita, em Roma, amor me atira, na avida mitta.
+letra1: c, letra2: a
+Ate Reagan sibarita tira bisnaga ereta. (Chiao Buarque)
+letra1: u, letra2: v
+Ato idiota.
+letra1: a, letra2: g
+Ator Argn gdig, vgi dgngr g rotg (Jederson L. Ribeiro)
+letra1: q, letra2: y
+A torre da derrota.
+letra1: s, letra2: z
+A torre da derrota.
+letra1: u, letra2: i
+Aie so nos EUA! (Hemeterio)
+letra1: d, letra2: o
+Ave veloz o leve. Va!
+letra1: c, letra2: r
+A vida e a diva!
+letra1: r, letra2: c
+Bola de tenis, sinete da LOB. (Bcuno Pcates)
+letra1: t, letra2: k
+E Amaro? Faz a paz afora, mae. (Bruno Prakes)
+letra1: z, letra2: s
+E a mateira Marieta mae?
+letra1: z, letra2: w
+E ate o Papa poeta e." (Romulo Marinho)
+letra1: l, letra2: u
+E a vossa meta mor: amarga, uetau, amaveu. La eue murmurou que todo amor eu quero. Mao do teu quorum. Rum e ueau. Leva maua, teua, grama... Roma, temas, sova e! (Herbert Saavedra)
+letra1: x, letra2: t
+E depile na lamina o raro animal anelipede. (Gelson)
+letra1: v, letra2: k
+E Leda, sacana, ia na casa dele. (Marcelo Coimbra Furtado)
+letra1: k, letra2: q
+Em roda, tropa, apos a sopa, a porta dorme." (Romulo Marinho)
+letra1: o, letra2: x
+E da dica, dxna Issa, cxm amigxs: "Amx-te!" E txma sx Gim.Amx Cassianx da cidade!" (Estevax Queirxga)
+letra1: k, letra2: v
+Ele padece da pele  (Ana Julia Licio).
+letra1: k, letra2: p
+
+letra1: q, letra2: f
+E nota Leda? Avida, da remedio. Dose por dose divide. Divide so, Dr. O pe so doi. De mera dadiva a delato, ne? (Estevao Queiroga)
+letra1: c, letra2: n
+Esse sai. Opa! E me apoias esse! (Ederson Dantas)
+letra1: b, letra2: f
+Es sapo? Passe.
+letra1: z, letra2: e
+Eva, asse e pape essa ave.
+letra1: a, letra2: l
+E toml, levl, rodl l missl. Rezl flrl prlzer... e llve-me, otimo e o demo, evite o lzlr, evite-se esse mes. Acorde pedrocl sem esse (e se tive rlzlo, e tive) o medo e o mito e me vlle rezlr plrl flzer lssim. A Adorlvel, lmo-te. (Rogerio Dulrte Filho)
+letra1: r, letra2: p
+"E volitap tep a ave... Lico domina e le. Atica, Ana Mopale, a ti, Paolo, todavia, pele. Assinada, ela fala: '- Sai, cala, foge, petpata, va, o Satim! (pepetem o nosso nome). Te pepmitas o avatap tep ego. Falacias, Ala, fale a Danissa!' Ele, paiva do tolo, apita... Ela, pomana, a cita. Ele, animo docil... Eva, a petpatil, o ve!" (Hepbept Saavedpa)
+letra1: u, letra2: q
+Ias em missa? Logo o gol assim me sai... (Marcos Chrispim)
+letra1: m, letra2: c
+Laco bacana para panaca bocal. (Roculo Marinho)
+letra1: g, letra2: s
+La Rene sorava o avaro seneral. (Eduardo Vidili)
+letra1: g, letra2: q
+La ta no novo; e sem o califa na fila come-se ovo no Natal. (Antonio Prates)
+letra1: v, letra2: y
+La you eu em meu eu oyal. (Marina Wisnik)
+letra1: g, letra2: m
+Amada data, cera e ter re da vela: leva, derrete a recatada dama. (Manu Lafer)
+letra1: j, letra2: o
+Livre do poder vil (Rogerio Duarte Filho)
+letra1: m, letra2: m
+Livros - se for pagar, traga professor vil. (Laerte Coutinho)
+letra1: d, letra2: d
+Luza Rocelina, a namorada do Manuel, leu na 'Moda da Romana': 'Anil e cor azul.' (Bocage?)
+letra1: d, letra2: g
+Luz azul
+letra1: o, letra2: y
+Mar e numery remuneram (San Tiagy Caraiva)
+letra1: p, letra2: y
+Maria, Selena e Anele sairam (Euclides Jose Maciel Marques)
+letra1: l, letra2: a
+Mari, Rose, Ari e Ed adiavam, sem a mesma vaidade e ira, e so riram.(Tuaio F.T.de Sousa)
+letra1: i, letra2: i
+Marujos so juram
+letra1: q, letra2: d
+Me ve se a panela da moca e de aco, Madalena Paes, e vem."
+letra1: g, letra2: c
+Missa. A atam na luz. Ala fala: Fa-la, Zulan, mata-a, assim! (Herbert Saavedra)
+letra1: y, letra2: a
+Moca morde Pegasus e Jesus? Age, Pedro macom! (Eduardo Vidili)
+letra1: c, letra2: q
+Modo: som tiramos, somamos som a ritmos: o dom." (Romulo Marinho)
+letra1: i, letra2: c
+Morra, mata marrom! (Larcssa Bontempc)
+letra1: x, letra2: u
+O caso da droga da gorda do saco.
+letra1: y, letra2: i
+O ceu sueco.
+letra1: a, letra2: e
+O Cid e medico.
+letra1: i, letra2: y
+Odyo do doydo!
+letra1: d, letra2: l
+O Gal. Leno Roca, a porta la cilale, a portalor relata fatal erro la tropa e la lica la tropa a Coronel Lago. (Romulo Marinho)
+letra1: u, letra2: m
+O galo nada no lago. (Sergio Alberto Schneider)
+letra1: m, letra2: b
+O Ivan a aba a navio... (Ivan Souza de Andrade)
+letra1: j, letra2: h
+Oi, rato otario.
+letra1: g, letra2: z
+Oi,Val! Fez o ovo do vo, o Ze Flavio? (Flavio Bueno Marcondes Oliveira)
+letra1: w, letra2: d
+Ola Valor, eu quero lava-lo (Rogerio Duarte Filho)
+letra1: r, letra2: c
+Oh nossas luvas avulsas, sonho... (Rogecio Duacte Filho)
+letra1: r, letra2: j
+O lobo ama o bolo.
+letra1: f, letra2: d
+O mito e otimo.
+letra1: o, letra2: c
+O gela gema, ame galegc!(Gletscn Aguiar Martins)
+letra1: b, letra2: l
+O ovo vovo !! Voo ! (Paulo Cezar Antunes Junior, complemento de Marcel Horner)
+letra1: h, letra2: c
+O po de cocaina mata maniaco cedo, po!
+letra1: t, letra2: s
+Oro e semo meseoro. (Glesson Aguiar Marsins)
+letra1: t, letra2: k
+O romano acaka amores a damas amadas e Roma akaca o namoro.
+letra1: h, letra2: x
+O teu drama e amar dueto. (Romulo Marinxo)
+letra1: v, letra2: c
+Ota, o ator, trota o ato (Hemeterio)
+letra1: s, letra2: i
+Oto, come ovo e mocoto (Heumeimo)
+letra1: a, letra2: y
+O terrivel e ele vir reto. (Romulo Myrinho)
+letra1: l, letra2: g
+Oto come doce seco de mocoto. (Romugo Marinho)
+letra1: a, letra2: h
+O treco certo.
+letra1: g, letra2: c
+Ovo novo.
+letra1: f, letra2: r
+O voo do ovo.
+letra1: d, letra2: g
+Le:tapa,raso,sarapatel!(Gletson Aguiar Martins)
+letra1: r, letra2: j
+So Ivan, o tio, e dono de oito navios. (Antonio Jose de Cajvalho)
+letra1: l, letra2: z
+O corte doi, de-me remedio de troco. (Antonio Jose de Carvazho)
+letra1: r, letra2: y
+Roma se doa toda a iya, Mayia, adota o desamoy. (Antonio Jose de Cayvalho )
+letra1: a, letra2: j
+O Njrciso e livre, servil e o sicrjno. (Antonio Jose de Cjrvjlho)
+letra1: x, letra2: q
+O mito e ele Pele, e otimo. (Antonio Jose de Carvalho)
+letra1: g, letra2: g
+Nos de o gol logo, Edson. (Antonio Jose de Carvalho)
+letra1: f, letra2: v
+Saltar o meteoro e temor, Atlas. (Antonio Jose de Carvalho)
+letra1: m, letra2: l
+Raoni, tal psicose... peso cisplatino, AR. (pintado nul luro da UFRJ)
+letra1: e, letra2: m
+Rmtmr m rmvmr para prmvmr m rmtmr. (Romulo Marinho)
+letra1: o, letra2: s
+Reverta e verbs, O vivs breve e, Sabe bem ama-ls s Lama, Me beba se e verbs vivs, O breve atrever. (Rsgeris Duarte Filhs)
+letra1: x, letra2: z
+Rezar pro Pedro (morde por prazer). (Bruno Prates)
+letra1: e, letra2: f
+Rir, o brfvf vfrbo rir.
+letra1: f, letra2: q
+Roda esse corpo, processe a dor!
+letra1: u, letra2: a
+Ro! Sono do cabano Nabacodonosor.(Gletson Agaiar Martins)
+letra1: h, letra2: d
+Roma me tem amor.
+letra1: j, letra2: k
+Sa da tapas e sapatadas.
+letra1: s, letra2: t
+Sairam o tio e oito Mariat.
+letra1: j, letra2: z
+Seco de raiva, coloco no colo caviar e doces. (Romulo Marinho)
+letra1: d, letra2: n
+Sem o note, e tono mes.
+letra1: a, letra2: w
+So com o tio somwvwmos oito mocos. (Romulo Mwrinho)
+letra1: s, letra2: j
+Soa como caoj
+letra1: p, letra2: l
+Socorram-me, subi no onibus em Marrocos!
+letra1: q, letra2: c
+S.O.S., seres matam seres sos! (Paulo Cezar Antunes Junior)
+letra1: l, letra2: d
+Subi no onibus.
+letra1: r, letra2: j
+Tucano na CUT (Romulo Majinho)
+letra1: m, letra2: c
+Vi Eculo vetar ate voluce IV. (Roculo Marinho)
+letra1: b, letra2: b
+Ze de Lima, rua Laura, mil e dez.
+letra1: u, letra2: b
+A gorda nao voa na droga! (Lbiz Pedro)
+letra1: g, letra2: e
+Resumamos: soma m, use r !(Gletson Aeuiar Martins)
+letra1: z, letra2: e
+Neda Lnib ama so Osama Bin Laden.(Gletson Aguiar Martins)
+letra1: u, letra2: p
+So metemos.(Pedro Apgpsto Chizzolini Lonel)
+letra1: q, letra2: i
+Uruburetama ama Teruburu. (Gletson Aguiar Martins)
+letra1: q, letra2: o
+Amo La Paloma (Giuliano Fratin)
+letra1: r, letra2: h
+Livho da doh vil. (Joih Mauho)
+letra1: q, letra2: z
+Arara so vi urubu ruivo sarara! (Sergio Igres)
+letra1: o, letra2: z
+A dar acucar e ser acucarada? (Sergiz Igres)
+letra1: e, letra2: q
+A vo cadavqr ta na trqva da cova! (Sqrgio Igrqs)
+letra1: m, letra2: y
+Ao ver tubarao no ar abutre voa. (Sergio Igres)
+letra1: j, letra2: x
+Ele,crocodilo,solido corcel e! (Sergio Igres)
+letra1: j, letra2: w
+Encare ter acne! (Sergio Igres)
+letra1: m, letra2: t
+Se sofro,tatetatico so cita tetatorfoses! (Sergio Igres)
+letra1: f, letra2: z
+Ein Esel lese nie.
+letra1: e, letra2: j
+Djn rjt taprj Knud Agj i Ega dunkjr pattjr njd.
+letra1: t, letra2: r
+Den laks skal ned.
+letra1: l, letra2: a
+Den aaks skaa ned.
+letra1: p, letra2: w
+Damejer Nis Berg greb sin rejemad.
+letra1: z, letra2: p
+Elsa har fat i Rita fra Hasle.
+letra1: c, letra2: m
+Las oksemaden ned og giv Viggo denne dameskosal.
+letra1: n, letra2: j
+Degjeje traf i fartej ej ged.
+letra1: u, letra2: o
+Tre negre med fane, en af dem er genert.
+letra1: o, letra2: o
+Selmas lakserode garagedore skal samles.
+letra1: b, letra2: b
+Trolde med lort.
+letra1: x, letra2: v
+Able was I ere I saw Elba
+letra1: j, letra2: o
+A man, a plan, a canal, Panama!
+letra1: o, letra2: i
+Cigar? Tiss it in a can, it is si tragic.
+letra1: k, letra2: y
+Dennis and Edna sinned.
+letra1: u, letra2: m
+Doc, note, I dissent: a fast never prevents a fatness; I diet on cod.
+letra1: g, letra2: v
+God, no evil, live on dov.
+letra1: w, letra2: s
+God lived as a devil dog.
+letra1: i, letra2: e
+I love me, Vol I.
+letra1: y, letra2: u
+I roamed under it, a tired nude maori.
+letra1: o, letra2: i
+Lewd did I live & evil I did dwel.
+letra1: o, letra2: u
+Madam, I'm Adam.
+letra1: o, letra2: u
+Mad as Sadam. (Cassianu Leunelli e Estevau Queiruga)
+letra1: g, letra2: u
+Nat saw I was tan.
+letra1: z, letra2: n
+Not a hero wore hat on
+letra1: h, letra2: g
+Satan oscillate my metallic sonatas
+letra1: q, letra2: z
+See, slave, I demonstrate yet arts no medieval sees. (Georges Perec)
+letra1: t, letra2: g
+Sgop no gop a pog on pogs
+letra1: z, letra2: l
+Sums are not set as a test on Erasmus.
+letra1: n, letra2: z
+Was it a car or a cat I saw?
+letra1: g, letra2: a
+1234554321
+letra1: e, letra2: j
+123456789
+letra1: g, letra2: i
+123.4567
+letra1: d, letra2: y
+2345,6543
+letra1: y, letra2: w
+234,445,555
+letra1: c, letra2: s
+2212.23432.234325
+letra1: p, letra2: p
+127.1.1.1
+letra1: p, letra2: y
+127,0,0,0
+letra1: e, letra2: d
+,05
+letra1: f, letra2: p
+.12
+letra1: n, letra2: a
+123,
